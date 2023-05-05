@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "user3306",
+    "password": "user3306",
+    "database": "cpuschema",
+    "host": "1.241.64.177",
+    "port":"1234",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "user1234",
+    "database": "sql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "user1234",
+    "database": "sql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
